@@ -1,7 +1,7 @@
 # Project-Trees - an applied MoDEM initiative 
 The intelligent Forest
 
-# MoDEM – Modular Distributed Expert Models  
+## MoDEM – Modular Distributed Expert Models  
 *A Project Trees Initiative*  
 “Not one brain. A hive of them.”
 
@@ -50,8 +50,8 @@ Instead of using one centralized generalist model, MoDEM lets you build a **modu
 ## Quickstart (PoC)
 
 ```bash
-git clone https://github.com/project-trees/modem
-cd modem
+git clone https://github.com/synfolia/Project-Trees
+cd Project-Trees
 
 # Spin up the router + 2 expert models
 docker-compose up
