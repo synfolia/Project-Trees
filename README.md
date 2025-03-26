@@ -1,4 +1,4 @@
-# Project-Trees - an applied modem initiative 
+# Project-Trees - an applied MoDEM initiative 
 The intelligent Forest
 
 # MoDEM – Modular Distributed Expert Models  
